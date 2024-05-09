@@ -140,31 +140,25 @@ plt.imshow(cropped_img)
 
 ## Output:
 i)Image Translation
+
 ![image](https://github.com/VigneshkumaranNS/IMAGE-TRANSFORMATIONS/assets/119484483/e527dfa1-5d68-4cb9-adcc-932e2477644e)
 ![image](https://github.com/VigneshkumaranNS/IMAGE-TRANSFORMATIONS/assets/119484483/63be992b-2357-44a6-b00f-adbbd7e29462)
 
-
 ii) Image Scaling
+
 ![image](https://github.com/VigneshkumaranNS/IMAGE-TRANSFORMATIONS/assets/119484483/b9f43655-88d8-4a13-9a47-5724d5338de3)
 
-
 iii)Image shearing
+
 ![image](https://github.com/VigneshkumaranNS/IMAGE-TRANSFORMATIONS/assets/119484483/7c18fc0d-a574-448e-a5d3-3c64006eb9cd)
 
-
 iv)Image Reflection
-![4](https://github.com/BALA291/IMAGE-TRANSFORMATIONS/assets/120717501/852cb22b-1d10-4320-a857-68b3181dea44)
 
-
-
-v)Image Rotation
 ![image](https://github.com/VigneshkumaranNS/IMAGE-TRANSFORMATIONS/assets/119484483/a0afdbd3-b8b4-4c63-969c-16e2e895e91f)
 
-
-
 vi)Image Cropping
-![image](https://github.com/VigneshkumaranNS/IMAGE-TRANSFORMATIONS/assets/119484483/dfcacb75-c9b9-444d-9a68-399ac0929830)
 
+![image](https://github.com/VigneshkumaranNS/IMAGE-TRANSFORMATIONS/assets/119484483/dfcacb75-c9b9-444d-9a68-399ac0929830)
 
 ## Result: 
 
